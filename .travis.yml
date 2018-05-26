@@ -28,3 +28,4 @@ script:
 
 afert_success:
   - npm run coveralls
+
