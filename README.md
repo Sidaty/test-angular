@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1590652214634bd6b0bfb1881661e461)](https://www.codacy.com/app/Sidaty/test-angular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sidaty/test-angular&amp;utm_campaign=Badge_Grade)
+
 # TestAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
