@@ -1,5 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/Sidaty/test-angular/badge.svg)](https://coveralls.io/github/Sidaty/test-angular)
-https://travis-ci.org/Sidaty/test-angular.svg?branch=master
+[![Build Status](https://travis-ci.org/Sidaty/test-angular.svg?branch=master)](https://travis-ci.org/Sidaty/test-angular)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1590652214634bd6b0bfb1881661e461)](https://www.codacy.com/app/Sidaty/test-angular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sidaty/test-angular&amp;utm_campaign=Badge_Grade)
 
 # TestAngular
