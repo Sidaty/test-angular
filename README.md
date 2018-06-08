@@ -1,5 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Sidaty/test-angular/badge.svg?branch=master)](https://coveralls.io/github/Sidaty/test-angular?branch=master)
 [![Build Status](https://travis-ci.org/Sidaty/test-angular.svg?branch=master)](https://travis-ci.org/Sidaty/test-angular)
+[![Known Vulnerabilities](https://snyk.io/test/github/Sidaty/test-angular/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Sidaty/test-angular?targetFile=package.json)
 
 # TestAngular
 
